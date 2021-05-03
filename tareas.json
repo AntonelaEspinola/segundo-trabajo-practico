@@ -1,0 +1,27 @@
+[
+    {
+        "titulo" : "ciclos",
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "strings",
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "modulos",
+        "estado" : "en progreso"
+    },
+    {
+        "titulo" : "git",
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "json",
+        "estado" : "en progreso"
+    }
+    , 
+    {
+        "titulo" : "react",
+        "estado" : "pendiente"
+    }
+]
